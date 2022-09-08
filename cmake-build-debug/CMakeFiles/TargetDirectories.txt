@@ -1,0 +1,4 @@
+/home/egor/CLionProjects/HW_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egor/CLionProjects/HW_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egor/CLionProjects/HW_02/cmake-build-debug/CMakeFiles/test.dir
+/home/egor/CLionProjects/HW_02/cmake-build-debug/CMakeFiles/HW_02.dir

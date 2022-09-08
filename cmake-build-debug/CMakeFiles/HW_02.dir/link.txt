@@ -1,0 +1,1 @@
+/usr/bin/c++   -Werror -Wall -Wextra -pedantic -lncurses -g   CMakeFiles/HW_02.dir/src/main.cpp.o CMakeFiles/HW_02.dir/src/StdioBoardView.cpp.o CMakeFiles/HW_02.dir/src/Board.cpp.o CMakeFiles/HW_02.dir/src/NCursesBoardView.cpp.o  -o HW_02 -lncurses /usr/lib/x86_64-linux-gnu/libform.so 

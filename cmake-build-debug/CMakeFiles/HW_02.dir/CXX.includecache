@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Board.h
+cstddef
+-
+
+../include/NCursesBoardView.h
+Board.h
+../include/Board.h
+ncurses.h
+-
+
+/home/egor/CLionProjects/HW_02/src/NCursesBoardView.cpp
+unistd.h
+-
+NCursesBoardView.h
+/home/egor/CLionProjects/HW_02/src/NCursesBoardView.h
+
